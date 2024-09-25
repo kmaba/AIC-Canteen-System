@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "514908921032",
+    "project_id": "aic-canteen-authentication",
+    "storage_bucket": "aic-canteen-authentication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514908921032:android:095c3834e097d5f64c59fd",
+        "android_client_info": {
+          "package_name": "com.kmaba.canteen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3Scx7QhBGVPjweN1-8Lo3DWAJto_EGIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
