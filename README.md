@@ -1,12 +1,12 @@
-# myapp
+# AIC Canteen Order System.
 
-A new Flutter project.
+Making Canteen Orders for Teachers Easier
 
-## Getting Started
+## Intent
 
-This project is a starting point for a Flutter application.
+This project is a project given by my school teachers to make their canteen orders easier.
 
-A few resources to get you started if this is your first Flutter project:
+If you are starting a flutter project of your own here are some resources to consider:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
@@ -14,3 +14,12 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+## Potential Struggles
+
+I need to develop an app which has:
+[] Secure System
+[] Only allow teachers under the organization @aic.wa.edu.au
+[] Blacklist all students by not allowing student ID numbers (XXXXX@aic.wa.edu.au)
+[] Make a Server to display orders, with function such as deny, accept, order fullfilled, and 'On my way'
